@@ -1,6 +1,6 @@
 package ar.edu.unju.fi.primerTP.aplicacion.model;
 
-public class Libro {
+public class Autor {
 
 	public static void main(String[] args) {
 
